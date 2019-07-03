@@ -16,6 +16,21 @@
       "timeAfterActive": 0,
       "showApplovin": false
     },
+     {
+      "status": 1,
+      "name": "first_out",
+      "value": "ca-app-pub-8127359539273086/2507036891",
+      "type": "2",
+      "enable": true,
+      "defaultParam": "",
+      "packageName": "",
+      "timeShow": 360000,
+      "timeAfterStart": 200000000,
+      "countShow": 0,
+      "maxShowDay": 3,
+      "timeAfterActive": 200000000,
+      "showApplovin": false
+    },
     {
       "status": 1,
       "name": "second",
